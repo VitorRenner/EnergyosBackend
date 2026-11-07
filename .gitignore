@@ -1,0 +1,14 @@
+# Build
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+.DS_Store
+
+# Segredos
+.env
+src/main/resources/application.properties.backup
